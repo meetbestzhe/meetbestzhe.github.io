@@ -4,6 +4,64 @@
   
     
     <entry>
+      <title>Dynamo之Python开发教学视频</title>
+      <link href="/2020/02/06/Dynamo/Dynamo%E4%B9%8BPython%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/"/>
+      <url>/2020/02/06/Dynamo/Dynamo%E4%B9%8BPython%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Dynamo之Python编程，笔者做了一个针对工程人员的Revit二次开发教学视频</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p>正在计划当中，尽请期待</p><h2 id="二、章节"><a href="#二、章节" class="headerlink" title="二、章节"></a>二、章节</h2><p>正在计划当中，尽请期待</p><h2 id="三、注意事项"><a href="#三、注意事项" class="headerlink" title="三、注意事项"></a>三、注意事项</h2><p>1.大家好，我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出BIM相关软件开发以及编程干货；<br>2.欢迎加入BIM行业开发交流群，获取更多开发资料 群号:711844216</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Dynamo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dynamo </tag>
+            
+            <tag> 教学视频 </tag>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Revit二次开发教学视频</title>
+      <link href="/2020/02/06/Revit/Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/"/>
+      <url>/2020/02/06/Revit/Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Revit二次开发，笔者做了一个针对工程人员的Revit二次开发教学视频</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p>刚入门revit二次开发的小伙伴，很多是零基础的工程人员，为了解决这个问题，博主做了revit二次开发的一系列教学视频（包括C#基础与revit二次开发两个模块），来帮助大家更好的入门。</p><h2 id="二、章节"><a href="#二、章节" class="headerlink" title="二、章节"></a>二、章节</h2><p>1.面向工程人员的Revit二次开发01_Vs的认识与使用<br>2.面向工程人员的Revit二次开发02_csharp的学习(上)<br>3.面向工程人员的Revit二次开发03_csharp的学习(中)<br>4.面向工程人员的Revit二次开发04_csharp的学习(下)<br>5.面向工程人员的Revit二次开发05_Revit二次开发环境的配置<br>6.面向工程人员的Revit二次开发06_Revit二次开发之过滤器的使用<br>7.面向工程人员的Revit二次开发07_族实例的创建、取值、赋值<br>8.面向工程人员的Revit二次开发08_UIRibbon的使用<br>9.面向工程人员的Revit二次开发09_WPF的使用<br>10.面向工程人员的Revit二次开发09_WPF的使用<br>11.面向工程人员的Revit二次开发11_插件安装包的制作<br><strong>课程地址：<a href="https://space.bilibili.com/38879307/video" target="_blank" rel="noopener">https://space.bilibili.com/38879307/video</a><br>地址失效的话，可以在bilibili站中搜索：黑夜de骑士</strong>  </p><h2 id="三、注意事项"><a href="#三、注意事项" class="headerlink" title="三、注意事项"></a>三、注意事项</h2><p>1.大家好，我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出BIM相关软件开发以及编程干货；<br>2.欢迎加入BIM行业开发交流群，获取更多开发资料 群号:711844216</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Revit </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Revit </tag>
+            
+            <tag> 二次开发 </tag>
+            
+            <tag> C# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Revit二次开发资料汇总</title>
       <link href="/2020/02/06/Revit/Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/"/>
       <url>/2020/02/06/Revit/Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/</url>
@@ -51,67 +109,9 @@
             
             <tag> Dynamo </tag>
             
+            <tag> Python </tag>
+            
             <tag> 开发资料 </tag>
-            
-            <tag> Python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>面向工程人员的Revit二次开发教学视频</title>
-      <link href="/2020/02/06/Revit/%E9%9D%A2%E5%90%91%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%91%98%E7%9A%84Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/"/>
-      <url>/2020/02/06/Revit/%E9%9D%A2%E5%90%91%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%91%98%E7%9A%84Revit%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Revit二次开发，笔者做了一个针对工程人员的Revit二次开发教学视频</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p>刚入门revit二次开发的小伙伴，很多是零基础的工程人员，为了解决这个问题，博主做了revit二次开发的一系列教学视频（包括C#基础与revit二次开发两个模块），来帮助大家更好的入门。</p><h2 id="二、章节"><a href="#二、章节" class="headerlink" title="二、章节"></a>二、章节</h2><p>1.面向工程人员的Revit二次开发01_Vs的认识与使用<br>2.面向工程人员的Revit二次开发02_csharp的学习(上)<br>3.面向工程人员的Revit二次开发03_csharp的学习(中)<br>4.面向工程人员的Revit二次开发04_csharp的学习(下)<br>5.面向工程人员的Revit二次开发05_Revit二次开发环境的配置<br>6.面向工程人员的Revit二次开发06_Revit二次开发之过滤器的使用<br>7.面向工程人员的Revit二次开发07_族实例的创建、取值、赋值<br>8.面向工程人员的Revit二次开发08_UIRibbon的使用<br>9.面向工程人员的Revit二次开发09_WPF的使用<br>10.面向工程人员的Revit二次开发09_WPF的使用<br>11.面向工程人员的Revit二次开发11_插件安装包的制作<br><strong>课程地址：<a href="https://space.bilibili.com/38879307/video" target="_blank" rel="noopener">https://space.bilibili.com/38879307/video</a><br>地址失效的话，可以在bilibili站中搜索：黑夜de骑士</strong>  </p><h2 id="三、注意事项"><a href="#三、注意事项" class="headerlink" title="三、注意事项"></a>三、注意事项</h2><p>1.大家好，我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出BIM相关软件开发以及编程干货；<br>2.欢迎加入BIM行业开发交流群，获取更多开发资料 群号:711844216</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Revit </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Revit </tag>
-            
-            <tag> 二次开发 </tag>
-            
-            <tag> C# </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>面向工程人员的Dynamo之Python开发教学视频</title>
-      <link href="/2020/02/06/Dynamo/%E9%9D%A2%E5%90%91%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%91%98%E7%9A%84Dynamo%E4%B9%8BPython%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/"/>
-      <url>/2020/02/06/Dynamo/%E9%9D%A2%E5%90%91%E5%B7%A5%E7%A8%8B%E4%BA%BA%E5%91%98%E7%9A%84Dynamo%E4%B9%8BPython%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Dynamo之Python编程，笔者做了一个针对工程人员的Revit二次开发教学视频</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p>正在计划当中，尽请期待</p><h2 id="二、章节"><a href="#二、章节" class="headerlink" title="二、章节"></a>二、章节</h2><p>正在计划当中，尽请期待</p><h2 id="三、注意事项"><a href="#三、注意事项" class="headerlink" title="三、注意事项"></a>三、注意事项</h2><p>1.大家好，我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出BIM相关软件开发以及编程干货；<br>2.欢迎加入BIM行业开发交流群，获取更多开发资料 群号:711844216</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Dynamo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Dynamo </tag>
-            
-            <tag> Python </tag>
-            
-            <tag> 教学视频 </tag>
             
         </tags>
       
