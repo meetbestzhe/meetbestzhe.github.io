@@ -33,35 +33,6 @@
     
     
     <entry>
-      <title>Dynamo之Python开发资料汇总</title>
-      <link href="/posts/b198d80.html"/>
-      <url>/posts/b198d80.html</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Dynamo之Python编程，笔者收集了当前主要的Dynamo中Python编程资料，并对开发路线有了一个规划。</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p> 大家在用python对dynamo编程的时候，有两个问题。</p><ol><li>python不熟悉，针对这个问题，笔者收集了一些适合零基础看的python教程，对于在dynamo中使用来说，不需要很深入的了解，了解python的基本语法就行了。</li><li>如何用python较好的使用revit的api，针对这个问题，推荐了国内外一些不错的网站，里面有很多在dynamo中使用python的例子，大家可以多研究下。</li></ol><h2 id="二、python学习资源汇总"><a href="#二、python学习资源汇总" class="headerlink" title="二、python学习资源汇总"></a>二、python学习资源汇总</h2><p>推荐几个适合零基础入门的python学习网站<br>网页：</p><ul><li>菜鸟教程  <a href="http://www.runoob.com/python/python-tutorial.html" target="_blank" rel="noopener">http://www.runoob.com/python/python-tutorial.html</a> </li><li>笨方法学python：<a href="https://www.2cto.com/shouce/Pythonbbf/index.html" target="_blank" rel="noopener">https://www.2cto.com/shouce/Pythonbbf/index.html</a></li><li>廖雪峰：<a href="https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000</a></li></ul><h2 id="三、dynamo中使用python"><a href="#三、dynamo中使用python" class="headerlink" title="三、dynamo中使用python"></a>三、dynamo中使用python</h2><p>在dynamo中使用python的教程并不是很多，下面推荐几个比较好的网站</p><p>国外：</p><ul><li>强烈推荐： <a href="https://giobel.github.io/Dynamo-Python/" target="_blank" rel="noopener">https://giobel.github.io/Dynamo-Python/</a></li><li>官方教程： <a href="https://primer.dynamobim.org/10_Custom-Nodes/10-4_Python.html" target="_blank" rel="noopener">https://primer.dynamobim.org/10_Custom-Nodes/10-4_Python.html</a>  </li><li>一些例子： <a href="http://wiki.theprovingground.org/revit-api" target="_blank" rel="noopener">http://wiki.theprovingground.org/revit-api</a></li></ul><p>国内：</p><ul><li>知乎专栏：<a href="https://zhuanlan.zhihu.com/Dynamo" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/Dynamo</a></li><li>博客：<a href="https://blog.csdn.net/niuge8905/article/details/78152980" target="_blank" rel="noopener">https://blog.csdn.net/niuge8905/article/details/78152980</a></li></ul><h2 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a>四、注意事项</h2><ol><li>如果大家还有好的网站欢迎补充推荐，笔者将继续更新</li><li>关于使用C#对Revit进行二次开发,可以参看博主另外一篇文章<a href="https://blog.csdn.net/birdfly2015/article/details/90677270" target="_blank" rel="noopener">Revit二次开发资料汇总</a></li><li>我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出revit二次开发以及编程干货</li><li>欢迎加入BIM行业开发交流1群，获取更多开发资料 群号:711844216</li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> Dynamo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Dynamo </tag>
-            
-            <tag> Python </tag>
-            
-            <tag> 开发资料 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Revit二次开发教学视频</title>
       <link href="/posts/cf070b38.html"/>
       <url>/posts/cf070b38.html</url>
@@ -83,6 +54,35 @@
             <tag> 二次开发 </tag>
             
             <tag> C# </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Dynamo之Python开发资料汇总</title>
+      <link href="/posts/b198d80.html"/>
+      <url>/posts/b198d80.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>为了帮助初学者更好的入门Dynamo之Python编程，笔者收集了当前主要的Dynamo中Python编程资料，并对开发路线有了一个规划。</p></blockquote><h2 id="一、背景"><a href="#一、背景" class="headerlink" title="一、背景"></a>一、背景</h2><p> 大家在用python对dynamo编程的时候，有两个问题。</p><ol><li>python不熟悉，针对这个问题，笔者收集了一些适合零基础看的python教程，对于在dynamo中使用来说，不需要很深入的了解，了解python的基本语法就行了。</li><li>如何用python较好的使用revit的api，针对这个问题，推荐了国内外一些不错的网站，里面有很多在dynamo中使用python的例子，大家可以多研究下。</li></ol><h2 id="二、python学习资源汇总"><a href="#二、python学习资源汇总" class="headerlink" title="二、python学习资源汇总"></a>二、python学习资源汇总</h2><p>推荐几个适合零基础入门的python学习网站<br>网页：</p><ul><li>菜鸟教程  <a href="http://www.runoob.com/python/python-tutorial.html" target="_blank" rel="noopener">http://www.runoob.com/python/python-tutorial.html</a> </li><li>笨方法学python：<a href="https://www.2cto.com/shouce/Pythonbbf/index.html" target="_blank" rel="noopener">https://www.2cto.com/shouce/Pythonbbf/index.html</a></li><li>廖雪峰：<a href="https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000</a></li></ul><h2 id="三、dynamo中使用python"><a href="#三、dynamo中使用python" class="headerlink" title="三、dynamo中使用python"></a>三、dynamo中使用python</h2><p>在dynamo中使用python的教程并不是很多，下面推荐几个比较好的网站</p><p>国外：</p><ul><li>强烈推荐： <a href="https://giobel.github.io/Dynamo-Python/" target="_blank" rel="noopener">https://giobel.github.io/Dynamo-Python/</a></li><li>官方教程： <a href="https://primer.dynamobim.org/10_Custom-Nodes/10-4_Python.html" target="_blank" rel="noopener">https://primer.dynamobim.org/10_Custom-Nodes/10-4_Python.html</a>  </li><li>一些例子： <a href="http://wiki.theprovingground.org/revit-api" target="_blank" rel="noopener">http://wiki.theprovingground.org/revit-api</a></li></ul><p>国内：</p><ul><li>知乎专栏：<a href="https://zhuanlan.zhihu.com/Dynamo" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/Dynamo</a></li><li>博客：<a href="https://blog.csdn.net/niuge8905/article/details/78152980" target="_blank" rel="noopener">https://blog.csdn.net/niuge8905/article/details/78152980</a></li></ul><h2 id="四、注意事项"><a href="#四、注意事项" class="headerlink" title="四、注意事项"></a>四、注意事项</h2><ol><li>如果大家还有好的网站欢迎补充推荐，笔者将继续更新</li><li>关于使用C#对Revit进行二次开发,可以参看博主另外一篇文章<a href="https://blog.csdn.net/birdfly2015/article/details/90677270" target="_blank" rel="noopener">Revit二次开发资料汇总</a></li><li>我是黑夜の骑士，欢迎大家关注我的博客，笔者将持续输出revit二次开发以及编程干货</li><li>欢迎加入BIM行业开发交流1群，获取更多开发资料 群号:711844216</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Dynamo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dynamo </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> 开发资料 </tag>
             
         </tags>
       
